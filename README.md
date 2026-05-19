@@ -1,5 +1,15 @@
+# FY2023 Federal Budget Utilization Analysis
+
+## Project Overview
+This project evaluates the spending efficiency and resource allocation of 108 federal entities at the close of Fiscal Year 2023 (Q4). Utilizing Microsoft Excel for data engineering and metric transformation, a custom **Utilization Rate** was modeled to compare actual agency outlays directly against authorized budget baselines. 
+
+Dataset - Kaggle: https://www.kaggle.com/code/ryotapy/us-federal-agencies-budget-and-spending-data
+
+The analysis exposes critical end-of-year spending gaps ranging from 32% to 65% across key sectors—likely driven by operational hiring delays and deferred milestones—and provides an actionable framework for quarterly internal audits to optimize future fund distribution.
+
 # Federal-Budget-Utilization-Analysis
 An analysis of FY2023 Q4 federal agency spending and resource utilization, identifying multi-sector budget gaps and proposing audit frameworks to maximize fund efficiency.
+
 Data Analytics Case Study: FY2023 Federal Budget Utilization Analysis
 Author: Madrid J. Gregory
 Tools Used: Microsoft Excel, Tableau
