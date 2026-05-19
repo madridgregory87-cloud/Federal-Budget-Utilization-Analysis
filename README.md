@@ -34,7 +34,7 @@ ________________________________________
 5. SHARE Phase (Data Visualization)
 To translate these tabular rows into a narrative stakeholders could act on, the cleaned dataset was imported into Tableau to build an interactive executive dashboard.
 •	Dashboard Focus: The visualizations distinctly highlight the stark contrast between optimized agencies and those suffering from critical spending bottlenecks.
-•	Project Link: https://www.linkedin.com/in/madrid-gregory-8b8800358/overlay/1775149900226/single-media-viewer/?profileId=ACoAAFkbpQwBrSi9kgo1HnUc0vdeSg6ptdIRHdU
+•	Project Link (Linkedin): https://www.linkedin.com/in/madrid-gregory-8b8800358/overlay/1775149900226/single-media-viewer/?profileId=ACoAAFkbpQwBrSi9kgo1HnUc0vdeSg6ptdIRHdU
 ________________________________________
 6. ACT Phase (Actionable Recommendations)
 To solve the spending gaps and drive the organization toward a 100% utilization rate by the September 30th end-of-fiscal-year deadline, the following three strategic actions are recommended:
